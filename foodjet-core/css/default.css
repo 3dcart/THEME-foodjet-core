@@ -21,6 +21,9 @@ a:focus, a:hover {
     color: #d45a31;
     text-decoration: underline;
 }
+.homeCarousel .slides>li {
+    z-index: 0 !important;
+}
 body {
     font-family: 'Open Sans', Helvetica,Arial,sans-serif;
     color: #000;
