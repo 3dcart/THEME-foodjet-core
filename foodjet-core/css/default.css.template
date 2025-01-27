@@ -27,9 +27,6 @@ body {
     line-height: 1.5;
 	font-size: [base_font_size]px;
 }
-.homeCarousel .slides>li {
-    z-index: 0 !important;
-}
 h1 {
     font-size: [heading_base_size]px;
 }
